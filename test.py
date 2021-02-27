@@ -2,4 +2,4 @@ print("hello world!")
 
 name = "Tuba"
 
-number of students = 71
+number_of_students = 71
